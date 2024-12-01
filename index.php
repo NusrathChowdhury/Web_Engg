@@ -29,7 +29,7 @@
       </ul>
     </div>
   </nav> 
-  <header class="jumbotron back-image" style="background-image: url(images/Banner1.jpeg);">
+  <header class="jumbotron back-image" style="background-image: url(images/maintwo.jpeg);">
     <div class="myclass mainHeading">
       <h1 class="text-uppercase text-info font-weight-bold">Welcome to OSMS</h1>
       <p class="font-italic">Customer's Happiness is our Aim</p>
