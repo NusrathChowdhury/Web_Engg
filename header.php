@@ -36,7 +36,7 @@
        </a>
       </li>
       <li class="nav-item">
-       <a class="nav-link <?php if(PAGE == 'request') { echo 'active'; } ?>" href="">
+       <a class="nav-link <?php if(PAGE == 'request') { echo 'active'; } ?>" href="request.php">
         <i class="fas fa-align-center"></i>
         Requests
        </a>
