@@ -30,7 +30,7 @@
        </a>
       </li>
       <li class="nav-item">
-       <a class="nav-link <?php if(PAGE == 'work') { echo 'active'; } ?>" href="">
+       <a class="nav-link <?php if(PAGE == 'work') { echo 'active'; } ?>" href="work.php">
         <i class="fab fa-accessible-icon"></i>
         Work Order
        </a>
@@ -48,7 +48,7 @@
        </a>
       </li>
       <li class="nav-item">
-       <a class="nav-link <?php if(PAGE == 'technician') { echo 'active'; } ?>" href="">
+       <a class="nav-link <?php if(PAGE == 'technician') { echo 'active'; } ?>" href="technician.php">
         <i class="fab fa-teamspeak"></i>
         Technician
        </a>
